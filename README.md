@@ -10,5 +10,5 @@
 - Продуктовые и бизнес метрики
 - A/B тестирование
 # Связаться со мной:
-https://t.me/sins_79
-gsindeev@yandex.ru
+- https://t.me/sins_79
+- gsindeev@yandex.ru
