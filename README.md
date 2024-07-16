@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**79sins/79sins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привет, меня зовут Глеб
+# Data analyst
+- окончил курс Яндекс Практикума по аналитике данных
+- окончил курс программирования на Python на Coursera
+# Стек
+- SQL, PostgreSQL
+- Python (numpy, pandas, matplotlib, seabern, scipy)
+- Tableau, Power BI
+- Amplitude
+- Продуктовые и бизнес метрики
+- A/B тестирование
+# Связаться со мной:
+https://t.me/sins_79
+gsindeev@yandex.ru
